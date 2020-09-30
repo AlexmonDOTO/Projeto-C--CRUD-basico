@@ -1,0 +1,5 @@
+E:\ProjetosC#\Supermercado\Supermercado.Dominio\bin\Debug\Supermercado.Dominio.dll
+E:\ProjetosC#\Supermercado\Supermercado.Dominio\bin\Debug\Supermercado.Dominio.pdb
+E:\ProjetosC#\Supermercado\Supermercado.Dominio\obj\Debug\Supermercado.Dominio.csproj.CoreCompileInputs.cache
+E:\ProjetosC#\Supermercado\Supermercado.Dominio\obj\Debug\Supermercado.Dominio.dll
+E:\ProjetosC#\Supermercado\Supermercado.Dominio\obj\Debug\Supermercado.Dominio.pdb

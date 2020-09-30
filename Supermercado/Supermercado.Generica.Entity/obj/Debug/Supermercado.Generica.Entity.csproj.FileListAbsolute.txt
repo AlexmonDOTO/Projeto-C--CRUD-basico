@@ -1,0 +1,14 @@
+E:\ProjetosC#\Supermercado\Supermercado.Generica.Entity\bin\Debug\Supermercado.Generica.Entity.dll.config
+E:\ProjetosC#\Supermercado\Supermercado.Generica.Entity\bin\Debug\Supermercado.Generica.Entity.dll
+E:\ProjetosC#\Supermercado\Supermercado.Generica.Entity\bin\Debug\Supermercado.Generica.Entity.pdb
+E:\ProjetosC#\Supermercado\Supermercado.Generica.Entity\bin\Debug\EntityFramework.dll
+E:\ProjetosC#\Supermercado\Supermercado.Generica.Entity\bin\Debug\EntityFramework.SqlServer.dll
+E:\ProjetosC#\Supermercado\Supermercado.Generica.Entity\bin\Debug\EntityFramework.xml
+E:\ProjetosC#\Supermercado\Supermercado.Generica.Entity\bin\Debug\EntityFramework.SqlServer.xml
+E:\ProjetosC#\Supermercado\Supermercado.Generica.Entity\obj\Debug\Supermercado.Generica.Entity.csproj.CoreCompileInputs.cache
+E:\ProjetosC#\Supermercado\Supermercado.Generica.Entity\obj\Debug\Supermercado.Generica.Entity.csproj.CopyComplete
+E:\ProjetosC#\Supermercado\Supermercado.Generica.Entity\obj\Debug\Supermercado.Generica.Entity.dll
+E:\ProjetosC#\Supermercado\Supermercado.Generica.Entity\obj\Debug\Supermercado.Generica.Entity.pdb
+E:\ProjetosC#\Supermercado\Supermercado.Generica.Entity\obj\Debug\Supermercado.Generica.Entity.csprojAssemblyReference.cache
+E:\ProjetosC#\Supermercado\Supermercado.Generica.Entity\bin\Debug\Supermercado.Dominio.dll
+E:\ProjetosC#\Supermercado\Supermercado.Generica.Entity\bin\Debug\Supermercado.Dominio.pdb
